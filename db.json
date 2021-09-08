@@ -1,0 +1,88 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "firstName": "Alaiah",
+	  "lastName": "Chandrashekar",
+	  "email": "alaiah@foo.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Pooja",
+	  "lastName": "Chandrashekar",
+	  "email": "pooja@foo.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Gowri",
+	  "lastName": "Chandrashekar",
+	  "email": "gowri@foo.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Nagu",
+	  "lastName": "Chandrashekar",
+	  "email": "nagu@foo.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Niko",
+	  "lastName": "Chandrashekar",
+	  "email": "niko@foo.com"
+    },
+    {
+      "id": 6,
+      "firstName": "Rio",
+	  "lastName": "Chandrashekar",
+	  "email": "rio@foo.com"
+    },
+    {
+      "id": 7,
+      "firstName": "Ash",
+	  "lastName": "Naik",
+	  "email": "ash@foo.com"
+    },
+    {
+      "id": 8,
+      "firstName": "Sujit",
+	  "lastName": "Menon",
+	  "email": "sujit@foo.com"
+    },
+    {
+      "id": 9,
+      "firstName": "Justine",
+	  "lastName": "Perakis",
+	  "email": "justine@foo.com"
+    },
+    {
+      "id": 10,
+      "firstName": "Ramu",
+	  "lastName": "Shankar",
+	  "email": "ramu@foo.com"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "street": "2343 Alpine Rd",
+	  "city": "Troy",
+	  "state": "Michigan",
+	  "zipCode": "48084",
+	  "country": "USA"
+      "customerId": 1
+    },
+	    {
+      "id": 1,
+      "street": "779 Woodfield Way",
+	  "city": "Rochester Hills",
+	  "state": "Michigan",
+	  "zipCode": "48307",
+	  "country": "USA"
+      "customerId": 2
+    }
+
+  ],
+  "profile": {
+    "name": "alaiah"
+  }
+}
